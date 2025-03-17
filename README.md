@@ -1,4 +1,4 @@
-##
+
 A **Healthcare Length of Stay (LOS) Analytics** Power BI project typically focuses on analyzing patient admission and discharge data to optimize hospital operations, reduce costs, and improve patient care. Here’s a detailed specification:
 
 ---
